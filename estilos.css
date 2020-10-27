@@ -1,0 +1,32 @@
+h1
+{
+    color: brown;
+}
+#cabecera /*Asi se le de estilo a los ID*/
+{
+    color: chocolate;
+}
+.cabecera /*Asi se ocupan las clases*/
+{
+    color: blue;
+}
+#parrafo
+{
+    color: #46484c;
+}
+#parrafo2
+{
+    color: blueviolet;
+}
+#boton
+{
+    color: darkmagenta;
+}
+#cuerpo
+{
+    color: black;
+}
+body
+{
+    background-color: darkkhaki;
+}
